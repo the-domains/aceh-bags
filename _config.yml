@@ -1,0 +1,22 @@
+typography_spectrum: 0.3455215815920383
+color:
+  brandStrength: 0.8310686787590384
+  lightness: 0.011063926853239536
+  saturation: 0.6877250033430755
+  rhythmicContrast: 0.47966360836289823
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+github: true
+layout_spectrum: 0.3820439164992422
+author:
+  name: Roy Van Broekhuizen
+  email: roy@lagahandbags.com
+  url: www.lagahandbags.com
+name: Aceh Bags
+title: Handmade Bags and Accessories
+content: []
+description: Help the less fortunate
